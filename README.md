@@ -1,16 +1,14 @@
-### Hi there 👋
+# Teja Surisetty - @MrRancy
 
-<!--
-**MrRancy/MrRancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello friend! I'm Teja Surisetty, a Polyglot Developer who loves building solutions. I'm most familiar with Blockchain, JavaScript (NodeJS), Java, and Angular - however my working area changes with the requirement based on my work. I love learning new things, building hardware projects, and am attempting to build my startup!
 
-Here are some ideas to get you started:
+![Teja Surisetty's github stats](https://github-readme-stats.vercel.app/api?username=MrRancy&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I currently working on? :HIKL (A Secret Project):
+
+It's also for learning new technologies such as GoLang, GraphQL & ReactJS.
+
+## Get in Touch 🌱
+
+- Twitter: https://linkedin.com/in/surisettyteja
+- Website: https://devilrancy.com
