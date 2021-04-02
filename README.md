@@ -19,7 +19,7 @@ Hi there, I'm **Teja Surisetty**, a **Certified Blockchain Developer** 🌍 and 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently work on MEAN Stack with Blockchain as primitive technology on todays problems & some interesting usecases;
+- 👨🏽‍💻 My current work revolved around MEAN Stack with Blockchain as primitive technology for solving todays problems & some interesting usecases;
 - 🌱 I’m currently learning Go Lang for modular programming; 
 - 🤔 My interests are with IOT/Understanding, Blockchain, Artificial Intelligence, etc..;
 - 💼 I’m completed my Bachelor's degree in Electronics & Communication;
