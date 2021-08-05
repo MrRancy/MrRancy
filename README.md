@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Teja Surisetty**, a **Certified Blockchain Developer** 🌍 and a **IOT Enthusiast** 🚀 from Visakhapatnam.  Currently, I'm a **Full Stack Developer** at Mindtree India, Banglore 🙍🏽‍♂️ [@Mindtree](https://www.mindtree.com/), and **Founder** of the opensource organization 👨🏽‍💼 [@StupifyLabs](https://stupify.in/). 
+Hi there, I'm **Teja Surisetty**, a **Certified Blockchain Developer** 🌍 and a **IOT Enthusiast** 🚀 from Visakhapatnam.  Currently, I'm a **Blockchain Developer** at Mindtree India, Banglore 🙍🏽‍♂️ [@Mindtree](https://www.mindtree.com/), and **Founder** of the opensource organization 👨🏽‍💼 [@StupifyLabs](https://stupify.in/). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
